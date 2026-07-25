@@ -122,15 +122,15 @@ Business Recommendations
 
 ---
 
-# 📊 Dashboard Preview
+## 📊 Dashboard Preview
 
-## Executive Dashboard
+### Executive Dashboard
 
-> *(Insert Executive Dashboard image here after uploading it.)*
+![Executive Dashboard](Dashboard%20Images/Executive_Dashboard.png)
 
-## Customer Segmentation Dashboard
+### Customer Segmentation Dashboard
 
-> *(Insert Customer Segmentation Dashboard image here after uploading it.)*
+![Customer Segmentation Dashboard](Dashboard%20Images/Customer_Segmentation_Dashboard.png)
 
 ---
 
