@@ -120,16 +120,15 @@ Business Recommendations
 
 **K = 5**
 
----
-## 📊 Dashboard Preview
+# 📊 Dashboard Preview
 
-### Executive Dashboard
+## Executive Dashboard
 
-![Executive Dashboard](Dashboard%20Images/Executive_Dashboard.png)
+![Executive Dashboard](Dashboard%20Images/Dashboard%201.png)
 
-### Customer Segmentation Dashboard
+## Customer Segmentation Dashboard
 
-![Customer Segmentation Dashboard](Dashboard%20Images/Customer_Segmentation_Dashboard.png)
+![Customer Segmentation Dashboard](Dashboard%20Images/Dashboard%202.png)
 
 # 📈 Key Business Insights
 
